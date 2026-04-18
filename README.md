@@ -1,0 +1,2 @@
+# transforming-unstructured-data-into-a-structured-format-loading-it-into-a-Redshift-database
+this repo explains the data structure, transformation logic, and database model used in the ETL job. The objective of this pipeline is to read semi-structured JSON data, flatten and transform it using PySpark, and load it into a relational data warehouse (Amazon Redshift) using a clean and scalable data model suitable for analytics.
